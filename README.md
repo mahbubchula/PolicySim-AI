@@ -191,7 +191,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ## 📧 Contact
 
-- **Author**: MAHBUB
+- **Author**: Mahbub Hassan, Founder: B'deshi Emerging Reseacrh Lab & Non Asean Scholar, Chulalongkorn University, Thailand 
 - **Email**: mahbub.hassan@ieee.org
 - **GitHub**: https://github.com/mahbubchula
 
