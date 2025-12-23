@@ -56,7 +56,7 @@ The system behaves like an agent because it:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PolicySim-AI.git
+git clone https://github.com/mahbubchula/PolicySim-AI.git
 cd PolicySim-AI
 
 # Create virtual environment
