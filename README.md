@@ -192,8 +192,8 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 ## 📧 Contact
 
 - **Author**: MAHBUB
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: mahbub.hassan@ieee.org
+- **GitHub**: https://github.com/mahbubchula
 
 ---
 
